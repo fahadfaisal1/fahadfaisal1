@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadfaisal1&label=Profile%20views&color=0e75b6&style=flat" alt="fahadfaisal1" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Flutter , MERN , Php**
+- 💬 Ask me about **MERN , Flutter , Php**
 
 - 📫 How to reach me **fahadfaisal694@gmail.com**
 
